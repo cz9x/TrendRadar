@@ -4,13 +4,12 @@ A股
 纳斯达克
 标普
 道琼斯
-+涨跌
 
 人工智能
 AI  
 ChatGPT
 DeepSeek
 千问
-+技术
+Gemini
 !广告
 !培训
